@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+@media  screen and (min-width: 583px){
+        header{
+            width: 98vw;   
+        }
+
+        a.menu{
+            margin-left: 80px;
+            font-size: 1.5em;
+        }
+
+        i{
+            font-size: 1.5em;
+            padding-top: 5px;
+        }
+
+        main{
+            width: 600px;
+        }
+
+        img{
+            width: 450px;
+        }
+
+        footer{
+            width: 98vw;
+        }
+}
+
+  @media  screen and (min-width: 980px){
+        header{
+            width: 98vw;   
+        }
+        
+        a.menu {
+            margin-left: 160px;
+        }
+
+        i{
+            font-size: 2em;
+            padding-top: 6px;
+        }
+
+        main{
+            width: 700px;
+        }
+
+        img{
+            width: 450px;
+        }
+
+        footer{
+            width: 98vw;
+        }
+
+    
+  }
